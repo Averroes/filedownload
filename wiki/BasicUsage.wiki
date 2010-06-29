@@ -4,7 +4,7 @@ This module is used for downloading files from the internet via http or ftp.
 
 It supports basic http authentication and ftp accounts, and supports resuming downloads. It does not support https or sftp at this time.
 	
-The main advantage of this class is it's ease of use, and pure pythoness, no C to compile.
+The main advantage of this class is it's ease of use, and pure pythoness. It only uses the Python standard library, so no dependencies to deal with, and no C to compile.
 	
 =Usage=
 
