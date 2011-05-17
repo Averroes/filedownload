@@ -1,2 +1,4 @@
 #labels Featured
+* May 17th: Uploaded new verison. 0.4 fileDownloader.py, cleaned up callback, fixed timeout bug, made an egg that actually works.
+
 * August 8th: Uploaded new verison of 0.2 fileDownloader.py, fixed bug in resume.
